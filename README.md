@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Email
+### 📧 Email
 <img src="https://img.shields.io/badge/tneoeo2@gmail.com-EA4335??style=flat-square&logo=Gmail&logoColor=white"/>
 
 ### ⚒️ Language & Skills 
