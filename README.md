@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/red?style=?style=flat-square&logo=appveyor&logo=Gmail&logoColor=#EA4335"/></a>
+<a href="(https://mail.google.com/)" target="_blank"><img src="https://img.shields.io/badge/red?style=flat-square&logo=appveyor&logo=Gmail&logoColor=#EA4335"/></a>
