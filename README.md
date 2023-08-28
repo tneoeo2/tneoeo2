@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <summary> <h3>Git Status </h3></summary>
 <div markdown="1">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tneoeo2&layout=compact&theme=radical)](https://github.com/tneoeo2/github-readme-stats)
-![tneoeo2's github stats](https://github-readme-stats.vercel.app/api?username=tneoeo2&show_icons=true&theme=radical&show_icons=true)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tneoeo2&layout=compact&theme=radical)](https://github.com/tneoeo2/github-readme-stats)
+![tneoeo2's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tneoeo2&show_icons=true&theme=radical&show_icons=true)
   
 </div>
 </details> 
