@@ -29,6 +29,13 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/tneoeo2"
+  width="600"
+  height="300"
+/>
+</a>
 
  <details>
 <summary> <h3>Git Status </h3></summary>
