@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/tneoeo2?success"
+  src="https://render.gitanimals.org/farms/tneoeo2"
   width="600"
   height="300"
 />
